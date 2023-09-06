@@ -1,0 +1,39 @@
+/* Global styles */
+html, body, .container-fluid, .content-row {
+    height: 100%;
+}
+
+/* Utility classes */
+.hide {
+    display: none;
+}
+
+/* Button styles */
+.city-btn:hover {
+    background-color: #205315;
+    cursor: pointer;
+}
+
+/* Card styles */
+.card {
+    background-color: #cce5ff;
+}
+
+/* Header styles */
+.navbar {
+    background-color: #114c49; 
+}
+
+/* colorize data attributes*/
+#uv-index {
+    color: #FFCC00; 
+}
+#current-wind-speed {
+    color: #008080;
+}
+#current-humidity {
+    color: #6B8E23; 
+}
+#current-temp {
+    color: #000000; 
+}
