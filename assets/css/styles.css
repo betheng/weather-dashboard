@@ -10,7 +10,7 @@ html, body, .container-fluid, .content-row {
 
 /* Button styles */
 .city-btn:hover {
-    background-color: #205315;
+    background-color: #c4feb7;
     cursor: pointer;
 }
 
